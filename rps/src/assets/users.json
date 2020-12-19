@@ -1,0 +1,25 @@
+{
+  "users":[
+    {
+      "username": "brohac",
+      "password": "password",
+      "wins": 0,
+      "loss": 1,
+      "draw": 0
+    },
+    {
+      "username": "user_name",
+      "password": "Pa55w0rd",
+      "wins": 5,
+      "loss": 0,
+      "draw": 0
+    },
+    {
+      "username": "daiseisho",
+      "password": "test123",
+      "wins": 0,
+      "loss": 6,
+      "draw": 2
+    }
+  ]
+}
